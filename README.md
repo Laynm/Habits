@@ -1,1 +1,1 @@
-# Habits
+Habit tracking app
