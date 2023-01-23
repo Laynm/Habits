@@ -38,6 +38,6 @@ You can preview the project layout through [FROM THIS LINK](<https://www.figma.c
 
 ## License
 
-This project is licensed under the MIT.
+This project is licensed under the Layslla Matias.
 
 ---
